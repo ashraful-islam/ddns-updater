@@ -1,0 +1,6 @@
+# private files
+config.json
+main
+
+# os files
+.DS_Store
