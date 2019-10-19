@@ -1,0 +1,7 @@
+{
+    "url_check_ip": "http://checkip.spdyn.de/",
+    "url_update_ip": "https://update.spdyn.de/nic/update",
+    "hostname": "sample.spdns.eu",
+    "user": "sample.spdns.eu",
+    "pass": "abcd-efgh-ijkl"
+}
